@@ -1,5 +1,5 @@
 <h1 align="center">
-  Github Finder
+  Buscador Github
 </h1>
 
 ## 📋 Índice
